@@ -1,5 +1,6 @@
 import React from 'react';
-import Counter from './componenets/Counter';
+import Counter from './components/Counter';
+// 카운터 뷰 컴포넌트 불러와야지
 
 function App() {
   return (
